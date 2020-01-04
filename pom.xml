@@ -8,6 +8,6 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>./my-arithmetic</module>
-	</modules>
+        	<module>my-arithmetic</module>
+    	</modules>
 </project> 
