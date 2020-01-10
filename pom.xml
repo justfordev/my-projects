@@ -8,6 +8,8 @@
 	<packaging>pom</packaging>
 
 	<modules>
-        	<module>my-arithmetic</module>
-    	</modules>
+		<module>my-arithmetic</module>
+		<module>my-dubbo-client</module>
+		<module>my-dubbo-server</module>
+	</modules>
 </project> 
